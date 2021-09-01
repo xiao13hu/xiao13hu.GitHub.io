@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiao13hu.github.io/</id>
-    <title>Hu cares</title>
-    <updated>2021-09-01T03:01:57.310Z</updated>
+    <title>胡言斋</title>
+    <updated>2021-09-01T16:10:34.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiao13hu.github.io/"/>
     <link rel="self" href="https://xiao13hu.github.io/atom.xml"/>
-    <subtitle>人类高质量倒霉蛋</subtitle>
+    <subtitle>胡言乱语
+胡说八道
+Hu knows
+Hu cares</subtitle>
     <logo>https://xiao13hu.github.io/images/avatar.png</logo>
     <icon>https://xiao13hu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Hu cares</rights>
+    <rights>All rights reserved 2021, 胡言斋</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xiao13hu.github.io/post/hello-gridea/</id>
